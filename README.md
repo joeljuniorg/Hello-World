@@ -1,2 +1,3 @@
 # Hello-World
-Repo to learn
+
+Estou aprendendo a usar o Git.
