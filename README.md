@@ -1,3 +1,3 @@
 # Hello-World
-Repo to learn
-Alteração após commit
+
+Estou aprendendo a usar o Git.
